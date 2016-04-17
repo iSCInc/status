@@ -1,5 +1,5 @@
-application: stashboard-hrd
-version: 2
+application: iscinc-status
+version: 1.0.0.alpha
 runtime: python27
 api_version: 1
 threadsafe: false
