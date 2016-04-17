@@ -2,7 +2,7 @@ import os
 
 DEBUG = False
 
-SITE_NAME = "Status | iSC Inc."
+SITE_NAME = "iSC Inc. Status"
 SITE_AUTHOR = "Suriyaa Kudo"
 SITE_URL = "http://iscinc-status.appspot.com"
 REPORT_URL = "mailto:status@inc.isc"
