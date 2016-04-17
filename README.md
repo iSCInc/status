@@ -1,4 +1,4 @@
-# Stashboard Software for iSC Inc. Status
+# [Stashboard Software for iSC Inc. Status](https://iscinc-status.appspot.com)
 
 [![Build Status](https://secure.travis-ci.org/iSCInc/status.png?branch=master)](https://travis-ci.org/iSCInc/status)
 
