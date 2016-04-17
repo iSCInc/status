@@ -20,6 +20,18 @@ See the [Getting Started](http://code.google.com/appengine/docs/python/gettingst
 [deploy]: http://code.google.com/appengine/docs/python/gettingstarted/uploading.html
 [appengine]: http://code.google.com/appengine/downloads.html#Google_App_Engine_SDK_for_Python
 
+## Supported domains
+
+We use the Freenom TLD service **`.tk`**, CloudFlare Proxy and DNS and the Google App Engine Domains:
+ - http://iscinc-status.tk
+ - http://iscinc-status.tk
+ - http://*.iscinc-status.tk (type something like this: http://something-i-type.iscinc-status.tk)
+ - https://app.iscinc-status.tk
+ - http://app.iscinc-status.tk
+ - http://status.iscinc-status.tk
+ - https://iscinc-status.appspot.com/
+ - http://iscinc-status.appspot.com/
+
 ## Demo
 
 The most recent version of Stashboard lives at http://stashboard.appspot.com
