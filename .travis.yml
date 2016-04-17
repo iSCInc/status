@@ -10,6 +10,11 @@ install:
   - "wget -q http://googleappengine.googlecode.com/files/google_appengine_1.8.9.zip"
   - "unzip -q google_appengine_1.8.9.zip"
 
+# secured client-secret.json file
+before_install:
+  - "openssl aes-256-cbc -K $encrypted_19f43f354a5d_key -iv $encrypted_19f43f354a5d_iv
+    -in client-secret.json.enc -out client-secret.json -d"
+
 # command to run tests
-script: 
+script:
   - "APPENGINE_SDK=google_appengine python tests/runner.py tests"
