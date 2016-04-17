@@ -4,7 +4,7 @@ DEBUG = False
 
 SITE_NAME = "iSC Inc. Status"
 SITE_AUTHOR = "Suriyaa Kudo"
-SITE_URL = "http://iscinc-status.appspot.com"
+SITE_URL = "https://iscinc-status.tk/"
 REPORT_URL = "mailto:status@inc.isc"
 
 # Twitter update settings
